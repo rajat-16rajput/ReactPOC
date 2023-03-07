@@ -1,0 +1,2 @@
+Rename the Interface component to Button group component Create a button
+component which renders the html based on property

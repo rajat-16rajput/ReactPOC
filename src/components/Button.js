@@ -3,7 +3,7 @@ import React from "react";
 function Button(props) {
   let onClickHandler = () => {
     props.callBackFunc(props.btnValue);
-    console.log(props);
+    //console.log(props);
     // alert("Hello!");
   };
 
